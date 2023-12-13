@@ -32,12 +32,10 @@ To incorporate ImageGuard into your project, follow the steps outlined in our [I
 
 We welcome contributions from the community. To contribute, please follow our [Contribution Guidelines](link-to-contribution-guidelines) and adhere to our [Code of Conduct](link-to-code-of-conduct).
 
-## License
 
-This project is licensed under the [MIT License](link-to-license). See the [LICENSE.md](link-to-license.md) file for details.
 
 ## Contact
 
-For inquiries and support, please contact our team at [contact@email.com].
+For inquiries and support, please contact our team at abdulqadirmagsi921@gmail.com.
 
 Experience the future of authentication with ImageGuard – where innovation meets security.
