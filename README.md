@@ -24,10 +24,9 @@ To incorporate ImageGuard into your project, follow the steps outlined in our In
 Contribution
 We welcome contributions from the community. To contribute, please follow our Contribution Guidelines and adhere to our Code of Conduct.
 
-License
-This project is licensed under the MIT License. See the LICENSE.md file for details.
+
 
 Contact
-For inquiries and support, please contact our team at [contact@email.com].
+For inquiries and support, please contact our team at abdulqadirmagsi@gmail.com
 
 Experience the future of authentication with ImageGuard – where innovation meets security.
